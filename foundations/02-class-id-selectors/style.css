@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(225, 142, 178);
+    color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.bigger {
+    font-size: 24px;
+}
+
+#big-font {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#green-goblin {
+    background-color: rgb(14, 99, 40);
+    color: black;
+    font-weight: bold;
+}
